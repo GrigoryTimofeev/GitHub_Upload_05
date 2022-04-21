@@ -15,7 +15,8 @@ Python 3.7.11 with additional libraries:
 
 Install the Fire and Questionary libraries executing following commands:
 
-```python jupyter lab
+```
+python jupyter lab
 ```
 
 ---
