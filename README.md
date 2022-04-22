@@ -16,7 +16,12 @@ Python 3.7.11 with additional libraries:
 Install the Fire and Questionary libraries executing following commands:
 
 ```
-python jupyter lab
+  pip install jupyterlab
+  pip install pandas
+  pip install dotenv
+  pip install alpaca-trade-api
+  pip install matplotlib
+  
 ```
 
 ---
